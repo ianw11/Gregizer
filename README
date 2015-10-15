@@ -1,0 +1,5 @@
+To run:
+   $ python gregizer.py
+
+To modify anything:
+   For now, just go into gregizer.py and change the top 2 lines
